@@ -15,7 +15,7 @@
 <p align="left">
 
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/neelu-sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neelu-sharma/" height="30" width="40" /></a>
+<a href="neelu-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neelu-sharma/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/neelu_sharma?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/neelu_sharma?hr_r=1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/neelu_sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/neelu_sharma/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/neelumaarula20/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/neelumaarula20/practice" height="30" width="40" /></a>
