@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Neelu Sharma</h1>
 <h3 align="center">A Quantum Code Wrangler: Unraveling complex algorithms and entangling with cutting-edge tech at the warp-speed headquarters of a hyperdimensional Product Frontier! 🚀🔬</h3>
 
-<img align="right" alt="Coding" width="370" height="280" src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632">
+<img align="right" alt="Coding" width="370" height="280" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
 
 - 🔭 I’m currently working on *mPro* at *Monocept!🚀💻*
 - Open to new roles with *2 Years of Experience* in Software Development.
