@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on *mPro* at *Monocept!🚀💻*
 - Open to new roles with *2 Years of Experience* in Software Development.
 - 🌱 I’m currently learning *Android Dev, iOS, Web3 & AI*
-- 💬 Ask me about *React, Flutter, Web3, AI, .NET, IoT, Node, ExpressJS, MongoDB & Data Structures*
+- 💬 Ask me about *React, Java, Springboot, MySql, IoT, Node, ExpressJS, MongoDB & Data Structures*
 
 <h3 align="left">Experience:</h3>
 
