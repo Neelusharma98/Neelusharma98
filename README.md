@@ -12,9 +12,11 @@
 
 Led backend development for the **mPro insurance project** using **Spring Boot and MongoDB**, enhancing system efficiency by 30% and
 functionality, resulting in a 20% increase in system reliability and reducing downtime by 15%.
-• Contributed to **capability building** in the mPro project by implementing **client-level validation, RA hop journey**, and **MIB integration**,
+
+- Contributed to **capability building** in the mPro project by implementing **client-level validation, RA hop journey**, and **MIB integration**,
 enhancing functional accuracy by 15% and **improving workflow efficiency and data validation processes for partners**.
-• Demonstrated expertise in **Java, Spring Boot, MERN stack, Servlets, JSP, JDBC, and MySQL** during internship, **contributing to 40%
+
+-Demonstrated expertise in **Java, Spring Boot, MERN stack, Servlets, JSP, JDBC, and MySQL** during internship, **contributing to 40%
 development efficiency, 15% faster delivery, and improving database performance by 20%** and data **processing time by 25%**.
 
 <h3 align="left">Achievements:</h3>
