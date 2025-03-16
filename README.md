@@ -24,6 +24,7 @@ development efficiency, 15% faster delivery, and improving database performance 
 - Solved 1000+ Data Structure and Algorithm problems on platforms like *LeetCode, **HackerRank, and **GFG**
 - Final round selection in the **FY23 Intern Showcase at NetApp**
 - Secured the **2nd Rank** at **Chhatrapati Shahu Ji Maharaj Kanpur
+- Achieved **5 stars** in Data Structures and Algorithms on **HackerRank**
 University**
 
 
